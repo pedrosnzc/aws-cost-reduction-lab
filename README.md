@@ -24,7 +24,7 @@ Gerenciamento automatizado de bancos de dados relacionais.
 
 ## Arquitetura do Projeto
 
-![Arquitetura AWS](assets/arquitetura-aws.png)
+![Arquitetura AWS](./arquitetura-aws.png)
 
 ## Benefícios
 
